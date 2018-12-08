@@ -1,0 +1,6 @@
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\bin\Debug\Loan.Application.Common.Framework.dll
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\bin\Debug\Loan.Application.Common.Framework.pdb
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\obj\Debug\Loan.Application.Common.csprojAssemblyReference.cache
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\obj\Debug\Loan.Application.Common.csproj.CoreCompileInputs.cache
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\obj\Debug\Loan.Application.Common.Framework.dll
+C:\Users\mine\Desktop\Auden_Matt\Loan.Application.Automation.Framework\Loan.Application.Common.Framework\obj\Debug\Loan.Application.Common.Framework.pdb
